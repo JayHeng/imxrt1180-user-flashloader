@@ -64,7 +64,7 @@
                 </option>
                 <option>
                     <name>MacOverride</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>MacFile</name>
@@ -88,7 +88,7 @@
                 </option>
                 <option>
                     <name>CExtraOptionsCheck</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>CExtraOptions</name>
